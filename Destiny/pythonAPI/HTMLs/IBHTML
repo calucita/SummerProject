@@ -1,0 +1,2996 @@
+
+
+<!DOCTYPE html>
+<html style="background-color: #060606;" class=" en mobile-nav-enabled  delay-interaction" >
+<head>
+<meta charset="utf-8" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="keywords" content="bungie, xbox, playstation, video, games, destiny, halo, myth, marathon, oni, blam, bungie store, 7th Column, Halo, Stats, Xbox Live, Halo 3 Stats" />
+<meta name="description" content="Bungie.net is the Internet home for Bungie, the developer of Destiny, Halo, Myth, Oni, and Marathon, and the only place with official Bungie info straight from the developers." />
+<meta content="app-id=441444902" name="apple-itunes-app">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="robots" content="" />
+<meta content="#393f45" name="theme-color">
+
+
+
+
+<meta property="og:title" content="Iron Banner &gt; Activities | Bungie.net" />
+<meta content="article" property="og:type" />
+<meta property="og:image" content="http://www.bungie.net/img/theme/bungienet/logo-share-large.png" />
+<meta content="Bungie.net" property="og:site_name" />
+<meta property="og:locale" content="en_us" />
+<meta property="og:description" />
+
+<meta content="summary" name="twitter:card">
+<meta name="twitter:site" content="@Bungie">
+<meta name="twitter:title" content="Iron Banner &gt; Activities | Bungie.net">
+<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="@Bungie">
+<meta name="twitter:image:src" content="http://www.bungie.net/img/theme/bungienet/logo-share-large.png">
+<meta content="Bungie.net" name="twitter:domain">
+<meta content="Bungie Mobile" name="twitter:app:name:iphone">
+<meta content="Bungie Mobile" name="twitter:app:name:ipad">
+<meta content="Vine" name="twitter:app:name:googleplay">
+<meta name="twitter:app:url:iphone" content="bungie://bungie.net/en-us/">
+<meta name="twitter:app:url:ipad" content="bungie://bungie.net/en-us/">
+<meta name="twitter:app:url:googleplay" content="bungie://bungie.net/en-us/">
+<meta content="id441444902" name="twitter:app:id:iphone">
+<meta content="id441444902" name="twitter:app:id:ipad">
+<meta content="com.bungieinc.bungiemobile" name="twitter:app:id:googleplay">
+
+
+<link href="/img/theme/bungienet/logo.png" rel="image_src" />
+
+<title>Iron Banner > Activities | Bungie.net</title>
+
+
+<script type="text/javascript">
+	var TagMetadata = {
+
+			"Ad": {
+			}
+				,
+			"Asset": {
+			}
+				,
+			"Audio": {
+			}
+				,
+			"CalendarEvent": {
+			}
+				,
+			"Callout": {
+			}
+				,
+			"CharacterItem": {
+			}
+				,
+			"ContentBlock": {
+				"": ""
+					,
+				"AboutUs": "about us page content"
+					,
+				"Careers": "careers page content"
+					,
+				"Feedback": "feedback"
+					,
+				"Foundation": "foundation content block"
+					,
+				"Halo": "halo universe page"
+					,
+				"HelpInstructions": "help-instructions"
+					,
+				"Marathon": "marathon universe page"
+					,
+				"Myth": "myth universe page"
+					,
+				"Publications": "publications page content"
+					,
+				"AboutDestiny": "about-destiny"
+			}
+				,
+			"ContentSet": {
+				"": ""
+					,
+				"Ad300x250": "ad-300x250"
+					,
+				"Ad300x600": "ad-300x600"
+					,
+				"Ad728x90": "ad-728x90"
+					,
+				"FrontPageAndroid": "front-page-content-set-android"
+					,
+				"FoundationHomepage": "foundation-home-page-images"
+					,
+				"FoundationSidebar": "foundation right side images"
+					,
+				"Halo": "halo universe page"
+					,
+				"Marathon": "marathon universe page"
+					,
+				"Myth": "myth universe page"
+					,
+				"GlobalAlertSet": "global-alert-content-set"
+					,
+				"HelpTrending": "help-trending"
+					,
+				"EventCalendar": "event-calendar"
+					,
+				"HomepageEvents": "homepage-events"
+					,
+				"HomepageReleases": "homepage-releases"
+					,
+				"FrontPageIos": "front-page-content-set-ios"
+					,
+				"ActiveJobs": "active-jobs-content-set"
+					,
+				"LiveTiles": "live-tiles-ps4"
+					,
+				"ProductPage": "product-page-content-set"
+					,
+				"Publications": "publications-content-set"
+					,
+				"BungieStyleguide": "styleguide-bungie"
+					,
+				"DestinyStyleguide": "styleguide-destiny"
+			}
+				,
+			"CountdownTimer": {
+			}
+				,
+			"CustomHelpForm": {
+			}
+				,
+			"DestinyAdvisor": {
+				"": ""
+					,
+				"armsday": "armsday"
+					,
+				"elderchallenge": "elderchallenge"
+					,
+				"crota": "crota"
+					,
+				"dailycrucible": "dailycrucible"
+					,
+				"dailychapter": "dailychapter"
+					,
+				"heroicstrike": "heroicstrike"
+					,
+				"ironbanner": "ironbanner"
+					,
+				"kingsfall": "kingsfall"
+					,
+				"nightfall": "nightfall"
+					,
+				"prisonofelders": "prisonofelders"
+					,
+				"prisonofelders-playlist": "prisonofelders-playlist"
+					,
+				"srl": "srl"
+					,
+				"trials": "trials"
+					,
+				"vaultofglass": "vaultofglass"
+					,
+				"weeklycrucible": "weeklycrucible"
+					,
+				"xur": "xur"
+			}
+				,
+			"DestinyEvent": {
+				"": ""
+					,
+				"HouseOfWolves": "houseofwolves"
+					,
+				"IronBanner": "ironbanner"
+					,
+				"PrisonOfElders": "prisonofelders"
+					,
+				"QueensWrath": "queenswrath"
+					,
+				"DarkBelow": "darkbelow"
+					,
+				"TrialsOfOsiris": "trialsofosiris"
+			}
+				,
+			"DestinyItem": {
+			}
+				,
+			"DestinyVendor": {
+			}
+				,
+			"GlobalAlert": {
+			}
+				,
+			"Help": {
+				"DestinyLegacyPlatformInaccessible": "DestinyLegacyPlatformInaccessible"
+					,
+				"DestinyLegacyPlatformInUse": "DestinyLegacyPlatformInUse"
+					,
+				"DestinyLegacyPlatformRestricted": "DestinyLegacyPlatformRestricted"
+			}
+				,
+			"HelpStep": {
+				"DestinyLegacyPlatformInaccessible": "DestinyLegacyPlatformInaccessible"
+					,
+				"DestinyLegacyPlatformInUse": "DestinyLegacyPlatformInUse"
+					,
+				"DestinyLegacyPlatformRestricted": "DestinyLegacyPlatformRestricted"
+			}
+				,
+			"InformationBlock": {
+				"": ""
+					,
+				"Faq": "bungie faq page 2"
+					,
+				"Trademarks": "bungie trademarks page 2"
+					,
+				"Conduct": "bungie conduct page"
+					,
+				"EULA": "bungie eula page"
+					,
+				"MobileFaq": "bungie mobile faq"
+					,
+				"GameConduct": "game conduct page"
+					,
+				"Mobile": "mobile app page"
+					,
+				"PrivacyPage": "bungie privacy page 2"
+					,
+				"Publications": "publications intro"
+					,
+				"RedemptionCodeFaq": "destiny code faq"
+					,
+				"Terms": "bungie terms page"
+			}
+				,
+			"Job": {
+			}
+				,
+			"DestinyLandingItem": {
+				"": ""
+					,
+				"Guardians": "destiny-guardians"
+					,
+				"Landing": "destiny-landing"
+					,
+				"Media": "destiny-media"
+					,
+				"Enemies": "destiny-our-enemies"
+					,
+				"Story": "destiny-story"
+					,
+				"Frontier": "destiny-frontier"
+					,
+				"CharacterItemSet": "destiny-character-set-parent"
+			}
+				,
+			"Link": {
+				"": ""
+					,
+				"DestinyPressRelease": "destiny-pressrelease"
+					,
+				"Featured": "news-featured"
+			}
+				,
+			"LinkedImage": {
+			}
+				,
+			"LiveTile": {
+				"": ""
+					,
+				"CombinedArms": "tile-combined-arms"
+					,
+				"IronBanner": "tile-iron-banner"
+					,
+				"QueensWrath": "tile-queens-wrath"
+					,
+				"Salvage": "tile-salvage"
+			}
+				,
+			"MessageOfTheDay": {
+				"Android": "platform-android"
+					,
+				"iOS": "platform-ios"
+					,
+				"Web": "platform-web"
+					,
+				"WindowsPhone": "platform-windows"
+			}
+				,
+			"News": {
+				"": ""
+					,
+				"Bungie": "news-bungie"
+					,
+				"Community": "news-community"
+					,
+				"Destiny": "news-destiny"
+					,
+				"Updates": "news-updates"
+					,
+				"BreakingIn": "news-breaking-in"
+					,
+				"BungiePodcast": "news-bungie-podcast"
+					,
+				"CommunityFocus": "news-community-focus"
+					,
+				"DrawingBoard": "news-drawing-board"
+					,
+				"Featured": "news-featured"
+					,
+				"MailSack": "news-mail-sack"
+					,
+				"TopStories": "news-top-stories"
+					,
+				"WeeklyUpdates": "news-weekly-update"
+			}
+				,
+			"PlayerSpotlight": {
+			}
+				,
+			"ProductDescription": {
+			}
+				,
+			"PromoWidget": {
+				"": ""
+					,
+				"Anonymous": "promo-anonymous"
+					,
+				"NoDestinyAccount": "promo-no-account"
+					,
+				"NoLatestExpansion": "promo-no-expansion"
+					,
+				"HasLatestExpansion": "promo-has-expansion"
+			}
+				,
+			"Publication": {
+			}
+				,
+			"ReleaseWidget": {
+			}
+				,
+			"Screenshot": {
+			}
+				,
+			"ServerToClientMessage": {
+			}
+				,
+			"StaticAsset": {
+				"": ""
+					,
+				"AboutUs": "about us rotator"
+					,
+				"Careers": "careers rotator images"
+					,
+				"Foundation": "foundation rotator"
+					,
+				"HaloHeader": "halo header image"
+					,
+				"MarathonHeader": "Marathon Header Image"
+					,
+				"MythHeader": "Myth Header Image"
+			}
+				,
+			"Stylesheet": {
+			}
+				,
+			"Video": {
+			}
+				,
+			"Wallpaper": {
+			}
+	};
+
+	TagMetadata.getTag = function(contentType, name, defaultValue) {
+		return (TagMetadata[contentType] && TagMetadata[contentType][name]) ? TagMetadata[contentType][name] : defaultValue;
+	};
+</script>
+
+
+<script src="/sharedbundle/utilities?v=hIM3iikzf3X7Q1zHeXSw4PG-lCkcFK8dGQ6InC4YXjk1"></script>
+
+
+<script type="text/javascript" src="/Scripts/bungienet/localizer.js?cv=3983621215&amp;av=1083700426"></script>
+<script type="text/javascript" src="/JSLocalizer.ashx?cv=3983621215&amp;av=1083700426&amp;lc=en&amp;lcin=True&amp;fmt=True"></script>
+<script type="text/javascript">
+
+	var ServerVars = {
+		DocumentReadyInteractionDelay: true,
+		SessionContextCookieName: 'bungled',
+		WebMembershipCookieName: 'bungleme',
+		StaticHostEnabled: 'false' === 'true',
+		StaticHost: 'www.bungie.net',
+		ContentVersion: 'cv=3983621215&av=1083700426',
+		GetCountsInterval: 300000,
+		FacebookAuthEnabled: 'false' === 'true',
+		MobileWebView: false,
+		RealTimeHeartBeat: 90
+	};
+
+
+	Localizer.localeAndCountry = 'en-US';
+	Localizer.switchEnabled = true;
+
+
+
+	Localizer.availableLocales = ["en","fr","es","de","it","ja","pt-br"];
+</script>
+
+
+<link href="/css/shared/utility.css?cv=3983621215&amp;av=1083700426" rel="stylesheet" type="text/css">
+<link href="/css/shared/font-awesome.css?cv=3983621215&amp;av=1083700426" rel="stylesheet" type="text/css">
+
+
+	<link href="/css/main_v2.css?cv=3983621215&amp;av=1083700426" rel="stylesheet" type="text/css">
+	<link href="/css/shared/nav.css?cv=3983621215&amp;av=1083700426" rel="stylesheet" type="text/css">
+	<link href="/css/shared/companion.css?cv=3983621215&amp;av=1083700426" rel="stylesheet" type="text/css">
+	<link href="/css/shared/nux.css?cv=3983621215&amp;av=1083700426" rel="stylesheet" type="text/css">
+	
+
+	<script type="text/javascript">
+
+		var PageUrls = {
+
+			/* different urls */
+			settingsPage: "/en/Profile/Settings",
+			userResearch: "/en/Questionnaire/UserResearch",
+			homePage: "/",
+			searchPage: "/en/View/Search",
+			newsArticle: "/en/News/News",
+			newsIndex: "/en/News",
+			activityPage: "/en/Activity",
+			followingTags: "/en/View/Profile/mytags",
+			followingUsers: "/en/View/Profile/usersfollowed",
+			followingGroups: "/en/View/Profile/mygroups",
+			followers: "/en/View/Profile/followers",
+			clansPage: "/en/Clans",
+			clansSearch: "",
+			clanIndex: "/en/Clan",
+			clanDetail: "/en/Clan/Detail",
+			clanForum: "/en/Clan/Forum",
+			clanAllianceForum: "/en/Clan/AllianceForum",
+			clanPost: "/en/Clan",
+			clanAdmin: "/en/Clan/Admin",
+			clanSettings: "",
+			clanCreate: "/en/Clans/Create",
+			communityCreationsDetail: "/en/Community/Detail",
+			groupsPage: "/en/Groups",
+			groupMembers: "/en/Groups/Members",
+			groupFollowers: "/en/Groups/Followers",
+			groupAdminPage: "/en/Groups/Admin",
+			groupTopicsPage: "/en/Groups/Forum",
+			groupPostPage: "/en/Groups/Post",
+			groupDetail: "/en/Groups/Detail",
+			groupMyGroups: "/en/Groups/myGroups",
+			grimoirePage: "/en/Grimoire",
+			defaultTopicsPage: "/en/Forum/Topics",
+			newTopicsPage: "/en/Forum/Topics",
+			newPostsPage: "/en/Forum/Post",
+			defaultPostPage: "/en/Forum/Post",
+			profilePage: "/en/User/Profile",
+			profileDirectPage: "/en/Profile",
+			termsOfUse: "/en/View/Bungie/terms",
+			careersPage: "/en/About/Careers",
+			aboutPage: "/en/AboutUs#!page=index",
+			styleguidePage: "/en/AboutUs#!page=styleguide",
+			redeemedCodes: "/en/Profile/Codes",
+			newsFeedByCategory: "/en/Rss/NewsByCategory",
+			root: "http://www.bungie.net",
+			legend: "/en/Legend",
+			psnReauth: "/en/User/Reauth/Psnid",
+			xboxReauth: "/en/User/Reauth/Xuid",
+			careers: "/en/About/Careers",
+			careerDetails: "/en/About/Careers/Detail/%7Breplace%7D"
+		};
+
+		var HelperText = {
+			tags: 'Tags (ex: #funny #multiplayer)',
+			postTitle: 'Title',
+			postLink: 'Share a link url, image url, or youtube video',
+			postBody: 'Enter body text',
+			ignoreComments: 'Enter your comments',
+			groupName: 'Group Name',
+			groupDescription: 'Description',
+			messageBody: 'Write a message...',
+			displayName: 'Display Name',
+			email: 'Email Address',
+			groupSearch: 'Search Groups',
+			search: 'Search',
+			searchBungieNet: 'Search Bungie.net',
+			pollTopic: 'Post a Poll',
+			pollAnswer: 'Poll Answer',
+			questionTopic: 'Question Post'
+		};
+
+		var DestinyEquipFailureReasons = {
+			ItemUnequippable: "This item cannot be equipped.",
+			ItemUniqueEquipRestricted: "You cannot equip another item of this type.",
+			ItemFailedLevelCheck: "Level $$CharacterLevel$$ required.",
+			ItemNotOnCharacter: "This item must be in your character&#39;s inventory to equip it."
+		};
+
+		var DestinyVendorItemStatuses = {
+			NoInventorySpace: "No space in inventory",
+			NoFunds: "You can&#39;t afford this item",
+			NoProgression: "Your rank is too low",
+			OutsidePurchaseWindow: "You can&#39;t purchase this... yet",
+			NotAvailable: "The item is currently unavailable",
+			UniquenessViolation: "You can&#39;t have more than one of these",
+			UnknownError: "Unpurchasable"
+		};
+
+		var OfficialTags = [];
+
+				OfficialTags.push("Destiny");
+				OfficialTags.push("Feedback");
+				OfficialTags.push("Help");
+				OfficialTags.push("Community");
+				OfficialTags.push("Recruitment");
+				OfficialTags.push("Gaming");
+				OfficialTags.push("OffTopic");
+
+
+		var ImageUrls = {
+			defaultGroupBanner: '/img/theme/bungienet/placeholders/defaultGroup.png'
+		};
+		Localizer.Mute = {};
+
+Localizer.Mute[4] = "Disruption/Insults/Disrespect";Localizer.Mute[64] = "Harassment/Personal Attacks/Privacy Violation";Localizer.Mute[1] = "Gory Violence/Explicit Sexuality";Localizer.Mute[256] = "Illegal Activity";Localizer.Mute[32] = "Hacking/Cheating";Localizer.Mute[16] = "Spoilers/Stolen Content";Localizer.Mute[512] = "Soliciting/Phishing/Impersonation";			
+		Localizer.BanLength = {
+			"None": "None",
+"Week": "Week",
+"TwoWeeks": "Two Weeks",
+"ThreeWeeks": "Three Weeks",
+"Month": "Month",
+"ThreeMonths": "Three Months",
+"SixMonths": "Six Months",
+"Year": "Year",
+"Forever": "Forever",
+"ThreeMinutes": "Three Minutes",
+"Hour": "An Hour",
+"ThirtyDays": "Thirty Days"
+
+		};
+		Localizer.CurrentCultureName = "en";
+
+		if (Localizer.Time != null)
+		{
+			Localizer.Time.MonthAbbr = function(num)
+			{
+				if (num < 1 || num > 12)
+				{
+					return "";
+				}
+				return Localizer.Time["monthabbr" + num];
+			};
+		}
+
+		Localizer.Applications = {
+					"BnetMobile":
+				"Bungie.net Mobile"
+
+
+		};
+
+		IgnoreSettings = [];
+
+			IgnoreSettings.push(
+4);
+			IgnoreSettings.push(
+64);
+			IgnoreSettings.push(
+1);
+			IgnoreSettings.push(
+256);
+			IgnoreSettings.push(
+32);
+			IgnoreSettings.push(
+16);
+			IgnoreSettings.push(
+512);
+
+	</script>
+	<script type="text/javascript" src="/Scripts/libraries/swfobject.js?cv=3983621215&amp;av=1083700426"></script>
+	<script src="/Scripts/libraries/knockout-3.2.0.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/knockout.mapping-latest.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/jquery-1.11.0.min.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/jquery-migrate-1.2.1.min.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/jquery.unobtrusive-ajax.min.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/modernizr-2.6.2.min.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/jquery.validate.min.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/jquery.validate.unobtrusive.min.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/jquery.highlight.min.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+	<script src="/Scripts/libraries/jquery.mousewheel.min.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+<script src="/sharedbundle/kobindings?v=gDK0JJmwRBOV9C8TphQxXjBOpo0OoC7DmgdsTmANTX81"></script>
+<script src="/sharedbundle/platformlib?v=r1oypagU91PH1EVfdQbielbx-Ih-mwUWbFKfLoa9egI1"></script>
+
+
+<script src="/Shared/Scripts/Components/viewmodels_global.js?cv=3983621215&amp;av=1083700426" type="text/javascript"></script>
+
+	<script>
+		(function(i, s, o, g, r, a, m)
+		{
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] ||
+				function()
+				{
+					(i[r].q = i[r].q || []).push(arguments);
+				}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m);
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-5262186-1', 'auto');
+		ga("set", "dimension1", Cookies.Get("bungleab"));
+		ga('send', 'pageview');
+
+	</script>
+
+<script type="text/javascript">
+
+	if (!window.console)
+	{
+		window.console = {
+			log: function()
+			{
+			}
+		};
+	}
+
+	try
+	{
+		bungieNetPlatform.platformSettings.initialize({
+			platformUrl: "/Platform",
+			baseUrl: "/",
+			currentLocale: 'en',
+			locInherit: 'true' == 'true',
+			isMobileDevice: 'false' == 'true',
+			isTouchDevice: Modernizr.touch,
+			renderContentEditLinks: 'false' == 'true',
+			internalLinkRegex:
+				/https?\:\/\/(((www)|(betanext)|(alpha)|(nike)|(bnetdev)|(bnetint)|(static-internal)|(local-static)|(static01))\.bungie(store)?\.(net|com))/gi,
+			contentVersion: "50735.16.05.27.0243-10"
+		});
+
+		bungieNetPlatform.defaultData = {};
+
+		templateEngine.version = "cv=3983621215&av=1083700426";
+
+		//cancels all outstanding ajax calls via the bungienetPlatform
+		$(window)
+			.on("unload", function() {
+				for (var i = 0; i < currentRequests.length; i++)
+				{
+					currentRequests[i].abort();
+				}
+			});
+	}
+	catch (err)
+	{
+	}
+
+	window.onload = function()
+	{
+		$('body').addClass('loaded');
+		//not supported message for browsers with no generated content
+		if (!Modernizr.generatedcontent)
+		{
+			$(".bg_top").append("<span>You are using an unsupported browser, your experience may be less than optimal</span>");
+		}
+
+		if (typeof loadAddThis !== 'undefined')
+		{
+			loadAddThis();
+		}
+	};
+
+</script>
+
+
+
+	<script type="text/javascript" src="/Scripts/libraries/date/date-en.js?cv=3983621215&amp;av=1083700426"></script>
+
+	<script type="text/javascript" src="/Scripts/base/mobile.js?cv=3983621215&amp;av=1083700426"></script>
+
+	<script src="/sharedbundle/basev2?v=r0f-t4f2Sx_IOlu0T8cNytCEeq6W9QPHKdFLM2Li4tY1"></script>
+
+
+	<script src="/sharedbundle/plugins?v=S-FsF5k0tCRo-c2r3DF-M7_nOQAqTRkcUBYIyLtbheU1"></script>
+
+
+
+
+<script src="/sharedbundle/eventmux?v=bzJHgHmjttkaYYNVVzmxOt-ffgKBkM4YiNeYqwt-rRY1"></script>
+<script src="/sharedbundle/notificationcount?v=2AAewEMqw8kUyRHbTXQFmNS8nBWbmRME8dP6Tc12PB41"></script>
+
+
+<script>
+	var FeatureFlags = {
+		Is3dEnabled: true,
+		CanUse3d: true && Modernizr.functionalwebgl
+	};
+</script>
+
+
+
+	
+	<link href="/areastyles/activities?v=M370FSjZ967Hxc-LwHPungqDo1-_SqwJEsengY8HS5I1" rel="stylesheet"/>
+
+	<link href="/sharedstyle/gearitemdetail?v=1oBaWy5dbpehMQ7zb3-z9vbiTYQqJs0Q1Geu-3a1zDY1" rel="stylesheet"/>
+
+
+
+	
+<script type="text/javascript">
+	var myID_cookie = Utility.MembershipId();
+	if (Utility.IsAuthenticated() && viewModels.loggedInUserModelIsLoaded() == false) {
+		PageUrls.myProfilePage = "/en/User/Profile?id=0MID0".replace('0MID0', Utility.MembershipId());
+		bungieNetPlatform.userService.GetCurrentUser(
+		function (result) {
+				$(document).find("head").append("<link href='" + Utility.ContentVersioned("/img/UserThemes/" + result.user.profileThemeName + "/skin.css")+"' rel='stylesheet' type='text/css'>");
+		    viewModels.loggedInUserModel(ko.mapping.fromJS(result));
+		    viewModels.loggedInUserModelIsLoaded(true);
+		    
+
+			if (viewModels.loggedInUserModel().adultMode()) {
+				// Remove any existing image hiding elements.
+				$(".post_urlLinkOrImage").addClass("deferred");
+				$(".btn_hideImage").addClass("hide");
+				// Remove any existing age gate prompts.
+				$(".ageGatePrompt").addClass("hide");
+				$(".ageGateContents").removeClass("hide");
+			}
+		},
+		function (error) {
+			if (error.errorCode == 5) {
+				window.location = "/Errors/bnetOfflineError.html";
+			}
+		});
+	}
+	
+
+	$(document).ready(function () {
+		//localstorage deleted for different user
+		if (Modernizr.localstorage) {
+
+			if (typeof localStorage["myID_cookie"] !== "undefined" && localStorage.getItem("myID_cookie") != myID_cookie) {
+			    localStorage.removeItem("myID_cookie")
+			}
+
+		}
+	});
+
+	Utility.alertSuccess = function (message, successMessageType) {
+		if (viewModels.loggedInUserModel()) {
+			if ((viewModels.loggedInUserModel().user.successMessageFlags() & successMessageType) != successMessageType) {
+				var checkbox = "<p class='successMessageContainer container_checkbox'><input type='checkbox' class='successMessageCheckbox' data-successMessageType='" + successMessageType + "' /> ";
+				checkbox += Localizer.Messages.dontshowmessagecheckbox;
+				checkbox += "</p>";
+				var finalMessage = message + checkbox;
+				Utility.alert(finalMessage, true);
+				$("#alert").find(".successMessageContainer").bind("click.lightbox", function (e) {
+					// Don't close the box if they click in here
+					e.stopImmediatePropagation();
+				});
+				$("#alert").find(".successMessageCheckbox").bind("change", function (e) {
+					var doNotShow = $(this).is(":checked");
+					if (doNotShow) {
+						// add the flag.
+						viewModels.loggedInUserModel().user.successMessageFlags(viewModels.loggedInUserModel().user.successMessageFlags() | successMessageType);
+					} else {
+						// Remove the flag (AND the inverse of the flag)
+						viewModels.loggedInUserModel().user.successMessageFlags(viewModels.loggedInUserModel().user.successMessageFlags() & ~successMessageType);
+					}
+
+					bungieNetPlatform.userService.EditSuccessMessageFlags(
+						viewModels.loggedInUserModel().user.successMessageFlags(),
+						function (result) {
+							// Now that we've changed the flag, close the lightbox.
+							customAlert.closeLightbox();
+						},
+						function (error) {
+							// If we couldn't change the flag, it isn't the end of the world.  We'll have logged whatever the problem was, let's not bother the user with it.
+						}
+					);
+				});
+			} else {
+				customAlert.closeLightbox();
+			}
+		} else {
+			// If no logged in user or for some reason it hasn't loaded yet, just show the message as-is.
+			Utility.alert(message, true);
+		}
+	};
+
+</script>
+
+
+	<script src="/sharedbundle/shared?v=o2UyiO4n_oovg1F6gM6lZcut_JmtGP3lOEo0z808Jq41"></script>
+
+
+
+<script type="text/javascript">
+	// Set the user minimum age if we have that info.
+	if (Modernizr.localstorage)
+	{
+		if (localStorage["minimumAge_cookie"])
+		{
+			viewModels.userMinimumAge = ko.observable(localStorage["minimumAge_cookie"]);
+
+			$(document)
+				.ready(function() {
+					// Any server-side age gates should be taken down.
+					if (viewModels.userMinimumAge())
+					{
+						$(".ageGateContents")
+							.each(function() {
+								var contents = $(this);
+
+								var minimumAge = parseInt(contents.attr("data-minimumAge"), 10);
+
+								if (viewModels.userMinimumAge() >= minimumAge)
+								{
+									contents.removeClass("hide");
+									contents.parent().find(".ageGatePrompt").addClass("hide");
+									contents.parent().find(".ageGateForbidden").addClass("hide");
+								}
+							});
+					}
+				});
+		}
+		else
+		{
+			viewModels.userMinimumAge = ko.observable(0);
+		}
+	}
+	else
+	{
+		viewModels.userMinimumAge = ko.observable(0);
+	}
+
+	viewModels.userMinimumAge.subscribe(function(newValue) {
+		if (Modernizr.localstorage)
+		{
+			localStorage["minimumAge_cookie"] = newValue;
+		}
+	});
+</script>
+
+<link href="/favicon.ico" rel="icon" type="image/x-icon" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<script type="text/javascript">
+	bungieNetPlatform.contentCache = {};
+</script>
+
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+<body class=" Detail  Activities  Companion  NoSidebar  noSubNav  en  bg cf" data-bind="css : { loggedIn : loggedInUserModel().user.membershipId() > 0 }">
+
+<div class="noJS">
+	<p>JavaScript is required to use Bungie.net</p>
+</div>
+<div class="bg_separate"></div>
+<div class="bg_secondary JS cf">
+
+	<div class="bg_top"></div>
+	
+
+
+
+<header>
+	<nav class="Nav_Top">
+		<ul class="nav_top cf">
+			<li class="left nav_logo h1">
+				<div class="small-menu"></div>
+				<h1 class="dropTrigger">
+					<a href="/" class="ir logo">Destiny</a>
+				</h1>
+			</li>
+
+
+			<li id="nav-items" class="left">
+					<div class="nav-bucket " data-id="home">
+						<a href="/en" class="" >
+Bungie.net													</a>
+					</div>
+					<div class="nav-bucket " data-id="legend-wrapper">
+						<a href="/en/Legend/Gear" class="" >
+My Legend															<span class="expandIcon fa"></span>
+						</a>
+							<div class="nav-bucket-items">
+									<a class="" data-id="profile" href="/en/Profile" >Profile</a>
+									<a class="" data-id="gear" href="/en/Legend/Gear" >Gear</a>
+									<a class="" data-id="gearmanager" href="/en/Gear/Manager" >Gear Manager</a>
+									<a class="" data-id="inventory" href="/en/Legend/Inventory" >Inventory</a>
+									<a class="" data-id="progress" href="/en/Legend/Progress" >Progress</a>
+									<a class="" data-id="stats" href="/en/Stats" >Stats</a>
+									<a class="" data-id="activities" href="/en/Activities" >Activities</a>
+									<a class="" data-id="grimoire" href="/en/Grimoire" >Grimoire</a>
+									<a class="" data-id="vendors" href="/en/Vendors" >Vendors</a>
+							</div>
+					</div>
+					<div class="nav-bucket " data-id="community">
+						<a href="/en/Community" class="" >
+Community															<span class="expandIcon fa"></span>
+						</a>
+							<div class="nav-bucket-items">
+									<a class="" data-id="creations" href="/en/Community" >Creations</a>
+									<a class="" data-id="news" href="/en/News" >News</a>
+									<a class="" data-id="clan" href="/en/Clan/Me" >My Clan</a>
+									<a class="" data-id="groups" href="/en/Clans" >Groups</a>
+									<a class="" data-id="forums" href="/en/Forums/Topics" >Forums</a>
+									<a class="" data-id="recruitmentforum" href="/en/Forums/Recruitment" >Recruitment</a>
+							</div>
+					</div>
+					<div class="nav-bucket " data-id="help-wrapper">
+						<a href="/en/Support" class="" >
+Help															<span class="expandIcon fa"></span>
+						</a>
+							<div class="nav-bucket-items">
+									<a class="" data-id="help" href="/en/Support" >Articles</a>
+									<a class="" data-id="helpforum" href="/en/Forums/Topics/?tg=Help" >Help Forum</a>
+									<a class="" data-id="everversehelp" href="/Silver" >Eververse</a>
+									<a class="" data-id="everversehelpforum" href="/en/Forums/Topics/?tg=Help%20Eververse" >Eververse Help Forum</a>
+							</div>
+					</div>
+					<div class="nav-bucket " data-id="pub-aboutdestiny">
+						<a href="/en/pub/AboutDestiny" class="" >
+Destiny															<span class="expandIcon fa"></span>
+						</a>
+							<div class="nav-bucket-items">
+									<a class="" data-id="pub-aboutdestiny" href="/en/pub/AboutDestiny" >Releases</a>
+									<a class="" data-id="armory" href="/en/Armory" >Armory</a>
+									<a class="" data-id="eververse" href="/en/Vendors?category=4" >Eververse</a>
+							</div>
+					</div>
+					<div class="nav-bucket " data-id="store">
+						<a href="http://bungiestore.com" class="" target=&#39;_null&#39;>
+Store													</a>
+					</div>
+			</li>
+
+			
+
+			
+
+<li id="GlobalSearch" class="right nav_top_search">
+    <div id="form_search" class="form_search">
+        <div class="container_textfield container_textbox floatingLabel">
+            <input type="text" placeholder="Search" maxlength="150" id="text_search" />
+        </div>
+        <a  class="btn_search ir" title="Search">Search</a>
+    </div>
+    
+
+<div id="SearchWidget" class="dropdown">
+    <div id="searchPreview" class="flyout_search">
+        <div class="searchPanel searchNews" id="searchNews">
+            <h2>News</h2>
+            <ul class="container_search_news cf"></ul>
+        </div>
+        <div class="searchPanel searchHelp" id="searchHelp">
+            <h2>Help</h2>
+            <ul class="container_search_help cf"></ul>
+        </div>
+        <div class="searchPanel searchTags">
+            <h2>Topics tagged: <span id="searchedTags"></span></h2>
+            <ul class="container_topics cf"></ul>
+        </div>
+        <div class="searchPanel searchUsers" id="searchUsers">
+            <h2>Users</h2>
+            <ul class="container_users cf"></ul>
+        </div>
+        <a href="/en/View/Search?all=replace" class="btn_viewMore">View All Results</a>
+    </div>
+    <div id="searchTagsPreview" class="flyout_search">
+        <div class="searchPanel searchTags">
+            <h2>Top Posts</h2>
+            <ul class="container_topics cf"></ul>
+        </div>
+        <div class="searchPanel searchGroups" id="searchGroups">
+            <h2>Groups</h2>
+            <ul class="container_groups cf"></ul>
+        </div>
+        <a href="/en/View/Search?all=replace" class="btn_viewMore">View All Results</a>
+    </div>
+    <div id="searchAdvanced" class="flyout_search">
+        <h2>Advanced Search</h2>
+        <div class="content">
+            <h3>Search what?</h3>
+            <select id="select_searchWhat">
+                <option value="tags" selected>Forum Topics</option>
+                <option value="users">Users</option>
+                <option value="groups">Groups</option>
+            </select>
+            <div class="panel panel_tags">
+                <h3>Created</h3>
+                <select id="tags_dateCreated">
+						<option selected value="0">All</option>
+						<option  value="1">Last Year</option>
+						<option  value="2">Last Month</option>
+						<option  value="3">Last Week</option>
+						<option  value="4">Today</option>
+                </select>
+
+                <h3>Tagged</h3>
+                <div class="container_textfield container_textbox"><input type="text" maxlength="300" id="tags_tags" /></div>
+                
+                <h3>Sort</h3>
+                <select id="tags_sort">
+						<option selected value="0">Default</option>
+						<option  value="1">Last Replied</option>
+						<option  value="2">Most Replied</option>
+						<option  value="3">Popularity</option>
+						<option  value="4">Most Debated</option>
+						<option  value="5">Liked</option>
+						<option  value="6">Highest Rated</option>
+						<option  value="7">Most Upvoted</option>
+                </select>
+                
+                <h3>Type</h3>
+                <select id="tags_type">
+						<option selected value="0">All Post Types</option>
+						<option  value="1">Links</option>
+						<option  value="2">Questions</option>
+						<option  value="4">Answered Questions</option>
+						<option  value="8">Media</option>
+						<option  value="16">Text Only</option>
+						<option  value="32">Announcement</option>
+						<option  value="64">Bungie Official</option>
+						<option  value="128">Polls</option>
+                </select>
+            </div>
+            <div class="panel panel_groups">
+                <h3>Group Name</h3>
+                <div class="container_textfield container_textbox"><input type="text" maxlength="100" id="groups_groupName" /></div>
+                <h3>Date Created</h3>
+                <select id="groups_dateCreated">
+                    <option selected="selected" value="ALL">All</option>
+                    <option value="YEAR">Last Year</option>
+                    <option value="MONTH">Last Month</option>
+                    <option value="WEEK">Last Week</option>
+                    <option value="RECENT">Today</option>
+                </select>
+                <h3>Tags</h3>
+                <div class="container_textfield container_textbox"><input type="text" maxlength="300" id="groups_tags" /></div>
+            </div>
+            
+        </div>
+        <div class="footer">
+            <a  id="btn_searchAdvanced" class="btn_blue btn_searchAdvanced">Search</a>
+        </div>
+    </div>
+</div>
+</li>
+
+			
+<li class="right nav_identity cf">
+	<div class="signedOut">
+		<div class="nav-bucket">
+			<a href="javascript:void(0);" class="connect">Sign In</a>
+			
+
+<div class="nav-bucket-items sign-in-triggers">
+		<a class="psn exempt" title="PlayStation Network" href="/en/User/SignIn/Psnid?bru=%252fen%252fActivities%252fDetail%253factivity%253dironbanner">PlayStation Network</a>
+			<a class="live exempt" title="Xbox Live" href="/en/User/SignIn/Xuid?bru=%252fen%252fActivities%252fDetail%253factivity%253dironbanner">Xbox Live</a>
+				
+</div>
+		</div>
+	</div>	
+</li>
+
+			
+				<li class="right nav_goSignUp signedOut">
+					<div class="nav-bucket">
+						<a class="exempt" id="btn_signUp" href="/en/User/Register">Join Up</a>
+					</div>
+				</li>
+
+			<li class="right nav_links signedIn">
+				<div class="username nav-bucket">
+					<div class="profileLink exempt">
+						<!-- ko if: viewModels.loggedInUserModelIsLoaded()-->
+						<span data-bind="
+							attr: { title: viewModels.loggedInUserModel().user.displayName() }, 
+							style: { backgroundImage: 'url(' + Utility.ContentVersioned(viewModels.loggedInUserModel().user.profilePicturePath()) + ')' }"></span>
+						<!-- /ko -->
+
+						<div class="nav-bucket-items">
+							<a data-bind="attr: { href: PageUrls.profilePage + '/' + viewModels.loggedInUserModel().user.membershipId() }" class=""> Profile</a>
+							<a href="/en/Profile/Settings" class=""> Settings</a>
+							<a href="/en/Questionnaire/UserResearch">User Research</a>
+							<a href="/en/User/coderedemption" class=""> Redeem Code</a>
+							<a href="/en/Profile/ReferAFriend">Refer-a-Friend</a>
+							<a id="btn_signOut" href="/en/User/SignOut?bru=%2Fen%2FActivities%2FDetail%3Factivity%3Dironbanner">Sign Out</a>
+							
+							<a data-bind="visible: isReporter, css: { hidden: !isReporter() }" href="/Admin/Reports">Admin Reports</a>
+							<a data-bind="visible: isReporter, css: { hidden: !isReporter() }" href="/Admin/UserReports">Review User Bans</a>
+							<a data-bind="visible: isUserEditor, css: { hidden: !isUserEditor() }" href="/Admin/UserEditor">User Editor</a>
+							<a data-bind="visible: isAdminHistoryViewer, css: { hidden: !isAdminHistoryViewer() }" href="/Admin/AdminHistory">Admin History</a>
+							<a data-bind="visible: isCommunityContentCurator, css: { hidden: !isCommunityContentCurator() }" href="/en/Community/Curator">Creations Curator</a>
+						</div>
+					</div>
+				</div>
+				<ul>
+					
+
+<li class="level_one mail icons">
+	<a title="Conversations" class="dropTrigger" data-bind="css : {'new' : viewModels.unreadMessages() + viewModels.unreadGroupMessages() > 0 }">
+		<span class="ir">Conversations</span>
+		<!-- ko if:(viewModels.unreadGroupMessages() > 0) -->
+		<span class="badge groupbadge"></span>
+		<!-- /ko -->
+		<!-- ko if:(viewModels.unreadMessages() > 0) -->
+		<span class="badge" data-bind="text : viewModels.unreadMessages()"></span>
+		<!-- /ko -->
+	</a>
+    <div class="dropdown panel">
+        <div class="panel_mail mail_conversations" id="mail_conversations">
+            <div class="hgroup">
+
+                <!--ko if: viewModels.viewingPrivateConversations() -->
+                <a class="btn_gotoCreate">Start New Conversation</a>
+                <!-- /ko -->
+                <h4>Conversations</h4>
+				<ul class="sort">
+					<li class="on">
+						<a data-category="private">Private</a>
+						<!-- ko if:(viewModels.unreadMessages() > 0) -->
+						(<span data-bind="text : viewModels.unreadMessages()"></span>)
+						<!-- /ko -->
+					</li>
+					<li>
+						<a data-category="group">Group</a>
+						<!-- ko if:(viewModels.unreadGroupMessages() > 0) -->
+						(<span data-bind="text : viewModels.unreadGroupMessages()"></span>)
+						<!-- /ko -->
+					</li>
+				</ul>
+            </div>
+            <div class="container_section">
+                <script type="text/html" id="template_conversation"> 
+	<!-- ko if : conversationId != 0 -->
+	<li class="link" data-bind="css: { 
+		pulse: isNew, 
+		'new': !conversation().detail.isRead(), 
+		'me': conversation().detail.memberFromId() == viewModels.loggedInUserModel().user.membershipId() 
+		}, attr: { 
+			'data-mtid': (usersToIds.length > 0 ? usersToIds.join(',') : ''), 
+			'data-mfid': conversation().detail.memberFromId(), 
+			'data-conversationid': conversationId, 'data-groupId' : conversation().detail.ownerEntityId(), 
+			'data-groupName' : (parseInt(conversation().detail.ownerEntityId(), 10) > 0 ? group.name : '') 
+		}">
+		<article class="cf con_list">
+			<!--ko if : parseInt(conversation().detail.ownerEntityId(), 10) > 0 -->
+			<div class="container_avatar">
+				<a class="avatar only exempt"><img data-bind="attr: { src: group.avatarPath }" alt="" /></a>
+			</div>
+			<!--/ko -->
+			<!--ko if : conversation().detail.ownerEntityType() == 0 -->
+			<div class="container_avatar">
+				<!-- ko if : usersTo.length > 2 -->
+				<a class="avatar exempt" data-bind="attr: {'data-membershipId' : usersTo[0].membershipId }"><img data-bind="attr: { src: usersTo[0].profilePicturePath }" alt="" /></a>
+				<a class="avatar exempt" data-bind="attr: { 'data-membershipId': usersTo[1].membershipId }"><img data-bind="attr: { src: usersTo[1].profilePicturePath }" alt="" /></a>
+				<a class="avatar exempt" data-bind="attr: { 'data-membershipId': usersTo[2].membershipId }"><img data-bind="attr: { src: usersTo[2].profilePicturePath }" alt="" /></a>
+				<!-- /ko -->
+				<!-- ko if : usersTo.length > 3 -->
+				<a class="avatar exempt" data-bind="attr: { 'data-membershipId': usersTo[3].membershipId }"><img data-bind="attr: { src: usersTo[3].profilePicturePath }" alt="" /></a>
+				<!-- /ko -->
+            
+				<!-- ko if : usersTo.length < 3 -->
+                <a class="avatar only exempt" data-bind="attr: { 'data-membershipId': lastRepliedUser.membershipId }"><img data-bind="    attr: { src: lastRepliedUser.profilePicturePath }" alt="" /></a>
+				<!-- /ko -->
+			</div>
+			<!-- /ko -->
+			<div class="content">
+				<!--ko if : conversation().detail.ownerEntityType() == 0 -->
+				<h1>
+					<!-- ko template:{name : 'template_conversation_to', foreach : usersTo } --><!-- /ko -->
+				</h1>
+				<!--/ko-->
+				<!--ko if : parseInt(conversation().detail.ownerEntityId(), 10) > 0 -->
+				<h1 data-bind="text: group.name"></h1>
+				<!--/ko -->
+				<time data-bind="attr : {datetime : conversation().detail.lastMessageSent()}"></time>
+                
+				<p data-bind="html: conversation().detail.body()"></p>
+				<!-- ko if: typeof invitation != "undefined" && invitation != null -->
+				<div class="message_invitation" data-bind="with: invitation" >
+					<p data-bind="routeBindingHtml: $data.message"></p>
+					<!-- ko ifnot: $data.hasExpired -->
+						<!-- ko if: $data.canRespond -->
+							<a data-bind="click: function() { viewModels.reviewInvitation($data, 1); }">Approve</a>
+							<a data-bind="click: function() { viewModels.reviewInvitation($data, 2); }">Deny</a>
+						<!-- /ko -->
+					<!-- /ko -->
+					</div>
+				<!-- /ko -->
+                <!-- ko ifnot : parseInt(conversation().detail.ownerEntityId(), 10) > 0 -->
+                <a data-bind="attr : {'data-conversationid' : conversationId }"  class="ir btn_clear" title="[Leave Conversation]">[Leave Conversation]</a>
+                <!--/ko-->
+            </div>
+             
+        </article>
+    </li>
+    <!-- /ko -->
+</script>    
+<script type="text/html" id="template_conversation_to">
+    <!-- ko if: (membershipId != Utility.MembershipId()) -->
+    <a class="exempt" data-bind="attr:{href:PageUrls.profilePage + '/' + membershipId, 'data-membershipId' : membershipId}, text : displayName, conversationAddComma:true"></a>
+    <!-- /ko -->
+</script> 
+                <!-- ko if: viewModels.areConversationsLoaded() && viewModels.conversationsModel().length <= 1 -->
+                <ul class="section info">
+                    <!--ko if: viewModels.viewingPrivateConversations() -->
+                    <li class="noResults"><p>Private messages show up here.  You have no conversations yet. Click &#39;Start New Conversation&#39; to send a message.</p></li>
+                    <!--/ko-->
+                    <!--ko ifnot: viewModels.viewingPrivateConversations() -->
+                    <li class="noResults"><p>Group messages show up here.  You have no group conversations yet.</p></li>
+                    <!-- /ko-->
+
+                </ul>
+                <!-- /ko -->
+                <!-- ko ifnot: viewModels.areConversationsLoaded() -->
+                <ul class="section info">
+                    <li class="spinner"></li>
+                </ul>
+                <!-- /ko -->
+                <ul class="section conversationsSection" data-bind="
+					template: {
+						name : 'template_conversation',
+						foreach : viewModels.conversationsModel,
+						afterRender : viewModels.finishRenderingConversation
+					},
+					visible: viewModels.areConversationsLoaded() && viewModels.conversationsModel().length > 1
+				"></ul>
+                
+            </div>
+
+        </div>
+        <div class="panel_mail hide mail_create" id="mail_create">
+            <div class="hgroup">
+                <a class="link_blueArrow_left link_back">Back</a>
+                <h4>New Conversation</h4>
+            </div>
+            <div class="container_section">
+                <div id="recipients" class="cf recipients">
+                    <span class="label">To:</span>
+                    <ul class="container_textbox">
+                        <li contenteditable="false"></li>
+                    </ul>
+                </div>
+
+            </div>
+            <div class="container_createReply">
+                <div class="container_textarea floatingLabel">
+	                <textarea cols="1" rows="2" tabindex="1" maxlength="4000" data-maxlength="4000" data-required="true" 
+	                          data-errormessage-required="Message Required" 
+	                          data-errormessage-maxlength="A message can only have a maximum of 4000 characters." 
+	                          class="autoGrow" 
+							  placeholder="Write a message..."></textarea>
+                </div>
+            </div>
+            <a class="btn_blue btn_sendMessage" tabindex="2">Send Message</a>
+        </div>
+        <!-- ko template : {name : 'template_conversationMain',  foreach : viewModels.conversationModel } --><!-- /ko -->
+    </div>
+</li>
+					
+
+<li class="level_one notifications icons">
+    <a  class="dropTrigger" title="Notifications" data-bind="css : {'new' : viewModels.newNotifications() > 0 }">
+        <span class="ir">Notifications</span>
+        <!-- ko if:(viewModels.newNotifications() > 0) -->
+        <span class="badge" data-bind="text : viewModels.newNotifications()"></span>
+        <!-- /ko -->
+    </a>
+    <div class="dropdown panel">
+        <div class="hgroup">
+            <a href="/en/Profile/Settings?cat=notificationsAndEmail" class="btn_settings">Settings</a>
+            <a  class="btn_resetNotifications">Clear</a>
+            <h4>Notifications</h4>
+        </div>
+        <div class="container_section">
+            <ul class="today section"><li class="spinner"></li></ul> 
+        </div>
+                             
+    </div>
+                       
+</li>
+
+					
+					
+
+<li class="level_one roster icons">
+	<a  class="dropTrigger" title="Friends" data-bind="css : {'new' : viewModels.onlineFriendCount() > 0 }">
+        <span class="ir">Friends</span>
+        <!-- ko if:(viewModels.onlineFriendCount() > 0) -->
+        <span class="badge" data-bind="text : viewModels.onlineFriendCount()"></span>
+        <!-- /ko -->
+    </a>
+    <div class="dropdown panel">
+        <div id="roster_list" class="roster_list">
+            <div class="hgroup">
+                <h4>Friends:</h4>
+                <ul class="sort">
+                    
+                    <li class="on"><a data-platform="bungiestatus">Following</a></li>
+                    <li><a data-platform="clanmembers">Clan</a></li>
+                    <li><a data-platform="psn">PlayStation</a></li>
+                    <li><a data-platform="xbox">Xbox LIVE</a></li>
+                    
+                </ul>
+                <div class="editStatusText" data-bind="finishedRenderingStatusText: true">
+                    <!--ko: if(viewModels.loggedInUserModelIsLoaded())-->
+                    <input type="text" placeholder="Click to edit status" id="text_statusTextRoster" class="text_editStatusText" data-bind="'value': viewModels.decodedStatusText()" />
+                    <span class="characterCount"><span class="count">0</span></span>
+                    <label for="text_statusTextRoster" data-bind="style: {'background-image' : true === true ? 'url(' + viewModels.loggedInUserModel().user.profilePicturePath() + ')' : ''}">Status: </label>
+                    <!-- /ko -->
+                    <div class="timeAndEdit"><span class="time"></span></div>
+                </div>
+                
+            </div>
+
+            <div class="container_section">
+                <ul class="section">
+                    <li class="container_bungiestatus platform">
+                        <ul class="bungiestatus">
+                            <li class="spinner"></li>
+                        </ul>
+                    </li>
+                    <li class="container_clanmembers platform hide">
+                        <ul class="clanmembers">
+                            <li class="spinner"></li>
+                        </ul>
+                    </li>
+                    <li class="container_psn platform hide">
+                        
+                        <ul class="psn">
+                            <li class="spinner"></li>
+                        </ul>
+                        <div class="hide reauthPSN">
+                            <img src="/img/theme/bungienet/icons/PSN_logo.png?cv=3983621215&amp;av=1083700426" width="167" height="158" alt="">
+                            <p>Your session with PSN has expired. Reauthenticate with PSN to view your friends.</p>
+                            <a class="btn_blue btn_reauthPSN btn_login psn">Reauthenticate</a>
+                        </div>
+                    </li>
+                    <li class="container_xbox platform hide">
+                        
+                        <ul class="xbox">
+                            <li class="spinner"></li>
+                        </ul>
+						<div class="hide reauthXbox">
+							<img src="/img/theme/bungienet/icons/icon_xboxFriends_empty.png?cv=3983621215&amp;av=1083700426" width="146" height="146" alt="">
+							<p>Your session with Xbox Live has expired. Reauthenticate with Xbox Live to view your friends.</p>
+							<a class="btn_blue btn_reauthXbox btn_login Xbox">Reauthenticate</a>
+						</div>
+                    </li>
+                </ul>
+                            
+            </div>
+        </div>
+    </div>
+</li>
+
+				</ul>
+			</li>
+
+		</ul>
+
+	</nav>
+
+</header>
+
+
+
+	
+
+
+
+<script type="text/html" id="template_conversationMain">
+	<!-- ko if :  inMain() -->
+	<div id="mail_conversation" class="panel_mail hide mail_conversation" data-bind="attr: {
+		'data-conversationId' : conversationId,
+		'data-groupId' : group.groupId,
+		'data-groupName' : group.name
+	}">
+
+		<div class="hgroup cf">
+			<a class="link_blueArrow_left link_back">Back</a>
+			
+			<!-- ko if : group.name !== "" -->
+			<h4><a data-bind="text: group.name, attr: { href: PageUrls.clanIndex + '/' + group.groupId }"></a></h4>
+			<!-- /ko -->
+			<!-- ko if : group.name === "" -->
+			<h4>
+				<!-- ko template : {name : 'template_recipients', foreach : $data.users, afterRender : Mail.cleanUpPinned } --><!-- /ko -->
+			</h4>
+			<!--/ko -->
+		</div>
+		<div class="container_dropdown container_section">
+			<ul class="section" data-bind="template:{name : 'template_message_main', foreach : messages }"></ul>
+		</div>
+		<div class="container_textfield container_textarea floatingLabel">
+			<textarea cols="1" rows="2" class="autoGrow" maxlength="4000" data-maxlength="4000" data-errormessage-maxlength="Message can only have a maximum of 4000 characters" 
+					  data-required="true" data-errormessage-required="Message Required" placeholder="Write a message..."></textarea>
+		</div>
+		<div class="whoIsTyping" data-bind="visible: whoIsTyping() != '', html: Localizer.Format(Localizer.Community.useristyping, { user: whoIsTyping() })"></div>
+		<!-- ko if : group.name === "" -->
+		<a class="btn_blue btn_reply" data-bind="attr: { 'data-conversationId': conversationId, 'data-conversationWith': Mail.getMemberIds(users()).join(',') }" tabindex="2">Send Message</a>
+		<!-- /ko -->
+		<!-- ko if : group.name !== "" -->
+		<a class="btn_blue btn_reply groupReply" data-bind="attr: { 'data-groupId': group.groupId, 'data-conversationId': conversationId }" data-conversationwith="" tabindex="2">Send Message</a>
+		<!-- /ko -->
+	</div>
+	<!-- /ko -->
+</script>
+<script type="text/html" id="template_message_main">
+	<!-- ko if: conversationId != 0 && $parent.users() -->
+
+	<li data-bind="if : conversationId != 0, css:{ 'me' : (memberFromId() == myID_cookie) },attr:{'data-mfid' : memberFromId(), 'data-mID' : messageId()  },finishedRenderingMessage_main : true">
+		<article class="cf">
+			<div class="container_avatar">
+				<a data-bind="attr: { href: PageUrls.profilePage + '/' + memberFromId() }" class="avatar only exempt">
+					<img alt="" data-bind="attr: { src: Mail.getUserFromId(memberFromId(), $parent.users).profilePicturePath, 'data-membershipId': memberFromId() }">
+				</a>
+			</div>
+			<div class="content">
+				<h1>
+					<a class="exempt" data-bind="attr: { href: PageUrls.profilePage + '/' + memberFromId(), 'data-membershipId': memberFromId() }, text: Mail.getUserFromId(memberFromId(), $parent.users).displayName"></a>
+					&nbsp; <a class="exempt btn_reportMessage" data-bind="visible: memberFromId() != myID_cookie, click: function() { fnReportMessage(memberFromId(), body(), messageId()); }, attr: { 'data-membershipId': memberFromId() }">Report</a>
+				</h1>
+				<time data-bind="attr: {'datetime' : dateSent() }"></time>
+				<p data-bind="html : bungieNetPlatform.linkHelper.injectLinks(bungieNetPlatform.tagHelper.injectSpans( body().replace(/\n/gi, '<br>') ))"></p>
+				<!-- ko if: typeof $data.invitationId != "undefined" -->
+				<!-- ko if: $data.invitationId() > 0 && typeof $parent.invitationDetails[$data.invitationId()] != "undefined" && $parent.invitationDetails[$data.invitationId()] != null -->
+				<div data-bind="with: $parent.invitationDetails[$data.invitationId()]">
+					<p data-bind="routeBindingHtml: $data.message"></p>
+					<!-- ko ifnot: $data.hasExpired -->
+					<!-- ko if: $data.canRespond -->
+					<p class="actions">
+						<a data-bind="click: function() { viewModels.reviewInvitation($data, 1); }">Approve</a>
+						<a data-bind="click: function() { viewModels.reviewInvitation($data, 2); }">Deny</a>
+					</p>
+					<!-- /ko -->
+					<!-- /ko -->
+				</div>
+				<!-- /ko -->
+				<!-- /ko -->
+			</div>
+
+		</article>
+	</li>
+	<!--/ko -->
+</script>
+
+
+<script type="text/html" id="template_conversationMobile">
+	<!-- ko if :  inMobile() -->
+	<div id="mail_conversation" class="panel_mail hide mail_conversation mobile" data-bind="attr: { 'data-conversationId': conversationId }">
+		<div class="hgroup cf">
+			<a class="link_blueArrow_left link_back">Back</a>
+			
+			<!-- ko if : group.name !== "" -->
+			<h4><a data-bind="text: group.name, attr: { href: PageUrls.clanIndex + '/' + group.groupId }"></a></h4>
+			<!-- /ko -->
+			<!-- ko if : group.name === "" -->
+			<h4>
+				<!-- ko template : {name : 'template_recipients', foreach : details().usersTo, afterRender : Mail.cleanUpPinned } --><!-- /ko -->
+			</h4>
+			<!-- /ko -->
+		</div>
+		<div class="container_dropdown container_section">
+			<ul class="section" data-bind="template: { name: 'template_message_mobile', foreach: messages }"></ul>
+		</div>
+
+		<div class="container_textfield container_textarea floatingLabel"><textarea cols="1" rows="2" class="autoGrow" maxlength="4000" data-maxlength="4000" data-errormessage-maxlength="Message can only have a maximum of 4000 characters" data-required="true" data-errormessage-required="Message Required" placeholder="Write a message..."></textarea></div>
+		<!-- ko if : group.name === "" -->
+		<a class="btn_blue btn_reply" data-bind="attr: { 'data-conversationId': conversationId, 'data-conversationWith': Mail.getMemberIds(details().membersToId()).join(',') }" tabindex="2">Send Message</a>
+		<!-- /ko -->
+		<!-- ko if : group.name !== "" -->
+		<a class="btn_blue btn_reply" data-bind="attr: { 'data-groupId': group.groupId }" tabindex="2">Send Message</a>
+		<!-- /ko -->
+
+	</div>
+	<!-- /ko -->
+</script>
+<script type="text/html" id="template_message_mobile">
+	<!-- ko if: conversationId != 0 && $parent.users() -->
+	<li data-bind="if: conversationId != 0, css: { 'me': (memberFromId() == myID_cookie) }, attr: { 'data-mfid': memberFromId(), 'data-mID': messageId() }, finishedRenderingMessage_mobile: true">
+		<article class="cf">
+			<div class="container_avatar">
+				<a data-bind="attr: { href:  PageUrls.profilePage + '/' + memberFromId() }" class="avatar only">
+					<img alt="" data-bind="attr: { src: Mail.getUserFromId(memberFromId(), $parent.users()).profilePicturePath(), 'data-membershipId': memberFromId() }">
+				</a>
+			</div>
+			<div class="content">
+				<h1>
+					<a data-bind="attr: { href: PageUrls.profilePage + '/' + memberFromId(), 'data-membershipId': memberFromId() }, text: Mail.getUserFromId(memberFromId(), $parent.users).displayName()"></a>
+				</h1>
+				<time data-bind="attr: { 'datetime': dateSent() }"></time>
+				<p data-bind="html: bungieNetPlatform.linkHelper.injectLinks(bungieNetPlatform.tagHelper.injectSpans(body().replace(/\n/gi, '<br>')))"></p>
+				<!-- ko if: typeof $data.invitationId != "undefined" -->
+				<!-- ko if: $data.invitationId() > 0 && typeof $parent.invitationDetails[$data.invitationId()] != "undefined" && $parent.invitationDetails[$data.invitationId()] != null -->
+				<div data-bind="with: $parent.invitationDetails[$data.invitationId()]">
+					<p data-bind="routeBindingHtml: $data.message"></p>
+					<!-- ko ifnot: $data.hasExpired -->
+					<p class="actions">
+						<a data-bind="click: function() { viewModels.reviewInvitation($data, 1); }">Approve</a>
+						<a data-bind="click: function() { viewModels.reviewInvitation($data, 2); }">Deny</a>
+					</p>
+					<!-- /ko -->
+				</div>
+				<!-- /ko -->
+				<!-- /ko -->
+			</div>
+
+		</article>
+	</li>
+	<!--/ko-->
+</script>
+
+
+
+
+<script type="text/html" id="template_conversationPinned">
+	<!-- ko if : inPinned() -->
+	<div data-bind="attr : {'data-conversationId' : conversationId}, renderedPinned :  true" class="pinned">
+		<div class="tab">
+			<!-- ko template : {name : 'template_recipients', foreach : details().usersTo, afterRender : Mail.cleanUpPinned } --><!-- /ko -->
+			<a class="btn_close">X</a>
+		</div>
+		<div class="container_dropdown container_section">
+			<ul class="section" data-bind="template:{name : 'template_message_pinned', foreach : messages }"></ul>
+		</div>
+		<div class="footer cf">
+			<div class="container_textfield container_textarea floatingLabel">
+				<textarea placeholder="Write a message..." data-maxlength="10000" data-errormessage-maxlength="Only 10000 characters allowed" data-required="true" data-errormessage-required="Message Required"></textarea>
+				<a class="ir btn_reply_pinned" data-bind="attr:{'data-conversationId' : conversationId, 'data-conversationWith' : Mail.getMemberIds(details().membersToId()).join(',') }">submit</a>
+			</div>
+		</div>
+	</div>
+	<!-- /ko-->
+</script>
+
+<script type="text/html" id="template_message_pinned"> 
+	<li data-bind="if : conversationId != 0, css:{ 'me' : (memberFromId() == myID_cookie) },attr:{'data-mfid' : memberFromId(), 'data-mID' : messageId()  },finishedRenderingMessage_pinned : true">
+		<article class="cf">
+			<a data-bind="attr: { href: PageUrls.profilePage + '/' + memberFromId()}" class="avatar exempt">
+				<img alt="" data-bind="attr: { src: Mail.getUserFromId(memberFromId(), $parent.users()).profilePicturePath(), 'data-membershipId': memberFromId() }">
+			</a>
+			<div class="content">
+				<h1>
+					<a data-bind="attr: { href: PageUrls.profilePage + '/' + memberFromId(), 'data-membershipId': memberFromId() }, text: Mail.getUserFromId(memberFromId()).displayName()"></a>
+				</h1>
+				<time data-bind="attr: {'datetime' : dateSent() }"></time>
+				<p data-bind="html : bungieNetPlatform.linkHelper.injectLinks(bungieNetPlatform.tagHelper.injectSpans( body().replace(/\n/gi, '<br>') ))"></p>
+			</div>
+		</article>
+	</li>
+
+</script>
+<script type="text/html" id="template_recipients">
+	<!-- ko if: (membershipId != Utility.MembershipId()) -->
+	<a data-bind="attr: {'data-membershipId' : membershipId, href : PageUrls.profilePage + '/' + membershipId},text : displayName, conversationAddComma:true" class="flyoutExempt"></a>
+	<!-- /ko -->
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="header_body_page"></div>
+
+	
+
+	<div id="outsideContent">
+		
+	</div>
+
+	<div id="content">
+
+		<div id="mainContent">
+			
+
+
+
+
+
+<div class="activities-content">
+
+	<div class="top-banner">
+		
+	<div class="parallax-banner flex">
+		<div class="image" style="background-image: url('/img/theme/destiny/bgs/advisors/IronBanner.jpg');"></div>
+		<div class="grid flex">
+			
+
+
+<div class="activity-item-details" 
+	 data-display-activity-id="86749741">
+	<div class="icon" style="background-image: url('/img/destiny_content/events/ib_icon.png');"></div>
+	<div class="title">Iron Banner</div>
+	<div class="subtitle">LIMITED TIME EVENT</div>
+
+	<div class="detail-tags">
+			<div class="detail-tag">Matchmade</div>
+
+			<div class="detail-tag">
+Fireteam Size: 1 - 6			</div>
+
+	</div>
+</div>
+
+			
+
+
+	<div class="activity-advisor-details">
+
+			<div class="details">
+				<div class="sectionHeader">Event Info</div>
+
+					<div class="status-dates flex flex-wrap">
+							<div class="status-date">
+								<div class="label">Starts</div>
+								Jul  19
+							</div>
+
+							<div class="status-date">
+								<div class="label">Ends</div>
+								Jul  26
+							</div>
+					</div>
+			</div>
+
+			<div class="days-left">
+				Days Left
+				<span class="days">
+					3
+				</span>
+			</div>
+
+			<div class="tools">
+				<div class="recruitment button gold">Find Fireteam</div>
+			</div>
+	</div>
+	<script type="text/html" id="recruitment-modal-template">
+		<div class="header">
+			<div class="title">Find Fireteam</div>
+				<div class="description">Iron Banner</div>
+		</div>
+		<div class="choices">
+					<input type="hidden" value="IronBanner" id="activity-tag" />
+
+			<div class="sectionHeader">Select Console:</div>
+			<div class="choice console grid flex flex-wrap">
+					<div class="button gold active grid-col-6 grid-col-12-mobile" data-tag="">Demon!</div>
+			</div>
+		</div>
+
+		<div class="actions">
+			<a class="cancel">Cancel</a>
+			<a class="find-fireteam disabled" data-href="/en/Forum/Topics?tg=replaceme">Find a Fireteam</a>
+		</div>
+	</script>
+
+			
+
+
+<div class="grid breadcrumb-identity">
+	<div class="breadcrumb grid-col-12">
+		<a href="/en/Activities">Activities</a> //
+
+		<span>Iron Banner</span>
+
+	</div>
+	<div class="cf"></div>
+</div>
+		</div>
+	</div>
+
+
+
+	</div>
+
+	
+
+
+	<div class="detail-activity-content">
+
+		<div class="mini-blocks grid flex">
+			
+
+
+
+
+	<div class="mini-block grid-col-4 grid-col-6-mobile grid-col-12-tiny grid-block flex">
+		<div class="mini-block-content flex">
+			<div class="details">
+				<div class="label">Time Remaining</div>
+				<div class="value">2d 22h 37m</div>
+			</div>
+
+		</div>
+	</div>
+
+
+
+
+	<div class="mini-block grid-col-4 grid-col-6-mobile grid-col-12-tiny grid-block flex">
+		<div class="mini-block-content flex">
+				<div class="icon" style="background-image: url('/img/theme/destiny/icons/node_pvp_iron_banner.png')"></div>
+			<div class="details">
+				<div class="label">Activity</div>
+				<div class="value">Iron Banner</div>
+			</div>
+
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+
+
+		<div class="grid flex" id="detail-blocks">
+
+			
+
+
+	<div class="description grid-block grid-col-5">
+		<div class="sectionHeader">What is it?</div>
+		<p>
+			<div>Iron Banner is a week-long event in which players can compete in a level advantages enabled Crucible playlist for Iron Banner themed Rewards.&nbsp;</div><div><br></div><div>Once the Iron Banner event is live, players have until the Weekly Reset to compete in the playlist and earn Iron Banner reputation and rewards.</div><div><br></div><div>For more information, please see our <a href="https://www.bungie.net/en/Help/Article/13674" title="" target="">IRON BANNER FAQ</a></div>
+		</p>
+	</div>
+
+
+	<div class="how-to grid-block grid-col-7 grid-col-12-mobile">
+		<div class="sectionHeader">Tips</div>
+		<ul>
+				<li>
+					Iron Banner ranks and reputation reset with the conclusion of each Iron Banner event.
+				</li>
+				<li>
+					The Tempered buff is granted to all players on the second day of Iron Banner, and increases reputation gains for every passing day of the Iron Banner event.
+				</li>
+				<li>
+					Equipping an Iron Banner Class Item, Emblem, and Shader increases Iron Banner reputation gains.
+				</li>
+				<li>
+					Competing in Iron Banner with secondary characters will grant them bonus Iron Banner reputation until they have caught up to the reputation of the character with your highest Iron Banner rank.
+				</li>
+				<li>
+					When Iron Banner is active, the regular Weekly Crucible Playlist can be found in the Director, under Crucible.
+				</li>
+		</ul>
+	</div>
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="vendors grid-block grid-col-12 expandable">
+		<a class="sectionHeader" href="/en/Vendors?vendor=242140165">Iron Banner</a>
+
+		<div class="vendor-container" data-vendorhash="242140165">
+				<div class="standardTitle">
+					Event Rewards
+				</div>
+				<div class="gear-item-container flex flex-wrap">
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="169"
+			 data-vendorhash="242140165"
+			 data-itemhash="3910559228"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=3910559228"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/3a6314391ad119461a8f119503001b95.jpg');">
+			</div>
+			<div class="standardTitle">Iron Companion Greaves</div>
+			<div class="standardDesc">
+				<div>Leg Armor</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="None" data-itemhash="3910559228" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">Iron Companion Greaves</div>
+			<div class="itemSubtitle">
+				<span>Leg Armor</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+					<div class="primaryStat">
+						<span class="statValue " data-statid="STAT_DEFENSE" data-statvalue="280">280</span>
+						<span class="statName">Defense</span>
+					</div>
+
+						<div class="itemDescription">
+							Ornate armor forged by the Lords of Iron beneath the Iron Banner.
+
+						</div>
+						<table class="itemStatTable">
+								<tr class="itemStat usesStatNumbers" data-id="STAT_INTELLECT">
+									<td class="statName">
+											<span class="statIcon" style="background-image: url('/common/destiny_content/icons/261a9d66deac73e5c62c279452c6f2d4.png');"></span>
+										<span>Intellect</span>
+									</td>
+									<td class="valueBar ">
+											<span class="valueNumber " data-statid="STAT_INTELLECT" data-statvalue="44" data-statmax="0">44</span>
+									</td>
+								</tr>
+								<tr class="itemStat usesStatNumbers" data-id="STAT_DISCIPLINE">
+									<td class="statName">
+											<span class="statIcon" style="background-image: url('/common/destiny_content/icons/decf1ff4a4e6559819649a1c901e6c2b.png');"></span>
+										<span>Discipline</span>
+									</td>
+									<td class="valueBar ">
+											<span class="valueNumber " data-statid="STAT_DISCIPLINE" data-statvalue="44" data-statmax="0">44</span>
+									</td>
+								</tr>
+						</table>
+						<div class="itemPerks">
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/56660b4594c87fcebcb857ac0b00c7d6.png);"></span>
+										<span class="itemPerkDescription">Increases the amount of Sniper Rifle ammunition you can carry.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/b06d28c9f75e70295e79d0cc489c83a5.png);"></span>
+										<span class="itemPerkDescription">Increases the amount of Rocket Launcher ammunition you can carry.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/40830da325b07dc040ec5a4425486c08.png);"></span>
+										<span class="itemPerkDescription">Increased Agility for 5 seconds after a Solar Double kill.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/694248786b3c4e24432685dccc687946.png);"></span>
+										<span class="itemPerkDescription">On respawn, weapon and movement speeds are greatly increased.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/legendarymark.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="2534352370">Legendary Marks</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">40</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="176"
+			 data-vendorhash="242140165"
+			 data-itemhash="1866413378"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=1866413378"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/651f56def29dbec38961e0e95812b2cf.jpg');">
+			</div>
+			<div class="standardTitle">Iron Companion Gauntlets</div>
+			<div class="standardDesc">
+				<div>Gauntlets</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="None" data-itemhash="1866413378" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">Iron Companion Gauntlets</div>
+			<div class="itemSubtitle">
+				<span>Gauntlets</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+					<div class="primaryStat">
+						<span class="statValue " data-statid="STAT_DEFENSE" data-statvalue="280">280</span>
+						<span class="statName">Defense</span>
+					</div>
+
+						<div class="itemDescription">
+							Ornate armor forged by the Lords of Iron beneath the Iron Banner.
+
+						</div>
+						<table class="itemStatTable">
+								<tr class="itemStat usesStatNumbers" data-id="STAT_DISCIPLINE">
+									<td class="statName">
+											<span class="statIcon" style="background-image: url('/common/destiny_content/icons/decf1ff4a4e6559819649a1c901e6c2b.png');"></span>
+										<span>Discipline</span>
+									</td>
+									<td class="valueBar ">
+											<span class="valueNumber " data-statid="STAT_DISCIPLINE" data-statvalue="31" data-statmax="0">31</span>
+									</td>
+								</tr>
+								<tr class="itemStat usesStatNumbers" data-id="STAT_STRENGTH">
+									<td class="statName">
+											<span class="statIcon" style="background-image: url('/common/destiny_content/icons/c53256fdddbdaf9c8ef6377c21ecd312.png');"></span>
+										<span>Strength</span>
+									</td>
+									<td class="valueBar ">
+											<span class="valueNumber " data-statid="STAT_STRENGTH" data-statvalue="30" data-statmax="0">30</span>
+									</td>
+								</tr>
+						</table>
+						<div class="itemPerks">
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/53552de2e87a4ff230ba495f03c9c15e.png);"></span>
+										<span class="itemPerkDescription">Increased melee attack speed.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/de29616ecdf31fffdddd13dda16a5b1f.png);"></span>
+										<span class="itemPerkDescription">Gain bonus melee energy on grenade hits.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/9a8098ca9b83ed8fb7c20b9ba9a4d161.png);"></span>
+										<span class="itemPerkDescription">Increased reload speed with Shotguns.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/legendarymark.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="2534352370">Legendary Marks</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">40</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="177"
+			 data-vendorhash="242140165"
+			 data-itemhash="2019341558"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=2019341558"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/f4946fb5fc3edcf211f206e8731b8b49.jpg');">
+			</div>
+			<div class="standardTitle">Iron Camelot Gauntlets</div>
+			<div class="standardDesc">
+				<div>Gauntlets</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="None" data-itemhash="2019341558" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">Iron Camelot Gauntlets</div>
+			<div class="itemSubtitle">
+				<span>Gauntlets</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+					<div class="primaryStat">
+						<span class="statValue " data-statid="STAT_DEFENSE" data-statvalue="280">280</span>
+						<span class="statName">Defense</span>
+					</div>
+
+						<div class="itemDescription">
+							Forged in remembrance of Jolder, she whose mighty hammer taught the Darkness fear.
+
+						</div>
+						<table class="itemStatTable">
+								<tr class="itemStat usesStatNumbers" data-id="STAT_INTELLECT">
+									<td class="statName">
+											<span class="statIcon" style="background-image: url('/common/destiny_content/icons/261a9d66deac73e5c62c279452c6f2d4.png');"></span>
+										<span>Intellect</span>
+									</td>
+									<td class="valueBar ">
+											<span class="valueNumber " data-statid="STAT_INTELLECT" data-statvalue="30" data-statmax="0">30</span>
+									</td>
+								</tr>
+								<tr class="itemStat usesStatNumbers" data-id="STAT_DISCIPLINE">
+									<td class="statName">
+											<span class="statIcon" style="background-image: url('/common/destiny_content/icons/decf1ff4a4e6559819649a1c901e6c2b.png');"></span>
+										<span>Discipline</span>
+									</td>
+									<td class="valueBar ">
+											<span class="valueNumber " data-statid="STAT_DISCIPLINE" data-statvalue="31" data-statmax="0">31</span>
+									</td>
+								</tr>
+						</table>
+						<div class="itemPerks">
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/53552de2e87a4ff230ba495f03c9c15e.png);"></span>
+										<span class="itemPerkDescription">Increased melee attack speed.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/de29616ecdf31fffdddd13dda16a5b1f.png);"></span>
+										<span class="itemPerkDescription">Gain bonus melee energy on grenade hits.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/dce9e26712f5afea72432ece968eb7d1.png);"></span>
+										<span class="itemPerkDescription">Increased reload speed with Sniper Rifles.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/legendarymark.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="2534352370">Legendary Marks</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">40</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="189"
+			 data-vendorhash="242140165"
+			 data-itemhash="1264422556"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=1264422556"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/425a95b9ae8f0ac2e50607f9934a2867.jpg');">
+			</div>
+			<div class="standardTitle">Weyloran's March</div>
+			<div class="standardDesc">
+				<div>Sniper Rifle</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="Thermal" data-itemhash="1264422556" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">Weyloran's March</div>
+			<div class="itemSubtitle">
+				<span>Sniper Rifle</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+					<div class="primaryStat">
+							<div class="damageTypeIcon" style="background-image: url('/img/destiny_content/damage_types/thermal.png');"></div>
+						<span class="statValue " data-statid="STAT_DAMAGE" data-statvalue="280">280</span>
+						<span class="statName">Attack</span>
+					</div>
+
+						<div class="itemDescription">
+							A sharpshooter's weapon, forged in fire by the Lords of the Iron Banner.
+
+						</div>
+						<table class="itemStatTable">
+								<tr class="itemStat " data-id="STAT_RATE_OF_FIRE">
+									<td class="statName">
+										<span>Rate of Fire</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 40%">
+												<span class="valueModifiedByNode " data-statid="STAT_RATE_OF_FIRE" data-statvalue="40" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													40
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat " data-id="STAT_BASE_DAMAGE">
+									<td class="statName">
+										<span>Impact</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 13%">
+												<span class="valueModifiedByNode " data-statid="STAT_BASE_DAMAGE" data-statvalue="13" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													13
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat " data-id="STAT_RANGE">
+									<td class="statName">
+										<span>Range</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 68%">
+												<span class="valueModifiedByNode " data-statid="STAT_RANGE" data-statvalue="68" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													68
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat " data-id="STAT_STABILITY">
+									<td class="statName">
+										<span>Stability</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 59%">
+												<span class="valueModifiedByNode " data-statid="STAT_STABILITY" data-statvalue="59" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													59
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat " data-id="STAT_RELOAD">
+									<td class="statName">
+										<span>Reload</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 85%">
+												<span class="valueModifiedByNode " data-statid="STAT_RELOAD" data-statvalue="85" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													85
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat usesStatNumbers" data-id="STAT_MAGAZINE_SIZE">
+									<td class="statName">
+											<span class="statIcon" style="background-image: url('/img/theme/destiny/icons/icon_magazineSize.png');"></span>
+										<span>Magazine</span>
+									</td>
+									<td class="valueBar ">
+											<span class="valueNumber " data-statid="STAT_MAGAZINE_SIZE" data-statvalue="5" data-statmax="100">5</span>
+									</td>
+								</tr>
+						</table>
+						<div class="itemPerks">
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/c9f5f2c46ccad2ea541eff31b16d91c6.png);"></span>
+										<span class="itemPerkDescription">This weapon gains better target acquisition.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/3cbc30141932452b48ad69b33f5956f6.png);"></span>
+										<span class="itemPerkDescription">Kills with this weapon reduce the cooldown of your grenade.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/legendarymark.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="2534352370">Legendary Marks</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">90</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="192"
+			 data-vendorhash="242140165"
+			 data-itemhash="3904536202"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=3904536202"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/0fb2da450e5e68036a946b65d3e69632.jpg');">
+			</div>
+			<div class="standardTitle">Nirwen's Mercy</div>
+			<div class="standardDesc">
+				<div>Pulse Rifle</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="Kinetic" data-itemhash="3904536202" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">Nirwen's Mercy</div>
+			<div class="itemSubtitle">
+				<span>Pulse Rifle</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+					<div class="primaryStat">
+						<span class="statValue " data-statid="STAT_DAMAGE" data-statvalue="280">280</span>
+						<span class="statName">Attack</span>
+					</div>
+
+						<div class="itemDescription">
+							A burst-fire weapon, forged in fire by the Lords of the Iron Banner.
+
+						</div>
+						<table class="itemStatTable">
+								<tr class="itemStat " data-id="STAT_RATE_OF_FIRE">
+									<td class="statName">
+										<span>Rate of Fire</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 66%">
+												<span class="valueModifiedByNode " data-statid="STAT_RATE_OF_FIRE" data-statvalue="66" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													66
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat " data-id="STAT_BASE_DAMAGE">
+									<td class="statName">
+										<span>Impact</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 14%">
+												<span class="valueModifiedByNode " data-statid="STAT_BASE_DAMAGE" data-statvalue="14" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													14
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat " data-id="STAT_RANGE">
+									<td class="statName">
+										<span>Range</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 34%">
+												<span class="valueModifiedByNode " data-statid="STAT_RANGE" data-statvalue="34" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													34
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat " data-id="STAT_STABILITY">
+									<td class="statName">
+										<span>Stability</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 81%">
+												<span class="valueModifiedByNode " data-statid="STAT_STABILITY" data-statvalue="81" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													81
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat " data-id="STAT_RELOAD">
+									<td class="statName">
+										<span>Reload</span>
+									</td>
+									<td class="valueBar barStat">
+											<span class="value" style="width: 68%">
+												<span class="valueModifiedByNode " data-statid="STAT_RELOAD" data-statvalue="68" data-statmax="100">
+													<span class="valueModified" style="width: 0%"></span>
+													68
+												</span>
+											</span>
+									</td>
+								</tr>
+								<tr class="itemStat usesStatNumbers" data-id="STAT_MAGAZINE_SIZE">
+									<td class="statName">
+											<span class="statIcon" style="background-image: url('/img/theme/destiny/icons/icon_magazineSize.png');"></span>
+										<span>Magazine</span>
+									</td>
+									<td class="valueBar ">
+											<span class="valueNumber " data-statid="STAT_MAGAZINE_SIZE" data-statvalue="30" data-statmax="100">30</span>
+									</td>
+								</tr>
+						</table>
+						<div class="itemPerks">
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/06bc1fba7366f787e2add57b95e77f10.png);"></span>
+										<span class="itemPerkDescription">Kills with this weapon increase reload speed for a short time.</span>
+									</div>
+									<div class="itemPerk ">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/183c83980b6aa9ce2ad91583a004bc97.png);"></span>
+										<span class="itemPerkDescription">This weapon has increased stability.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/legendarymark.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="2534352370">Legendary Marks</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">90</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="196"
+			 data-vendorhash="242140165"
+			 data-itemhash="165221410"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=165221410"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/35f8b379bf34c8c12682cf1a3876983a.jpg');">
+			</div>
+			<div class="standardTitle">Iron Pride</div>
+			<div class="standardDesc">
+				<div>Emblem</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="None" data-itemhash="165221410" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">Iron Pride</div>
+			<div class="itemSubtitle">
+				<span>Emblem</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+
+						<div class="itemPerks">
+									<div class="itemPerk active">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/c8ebd0e39466600000e88d6bdb935e27.png);"></span>
+										<span class="itemPerkDescription">Increases Event Standing gained in the Iron Banner.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/glimmer.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="3159615086">Glimmer</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">1000</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="197"
+			 data-vendorhash="242140165"
+			 data-itemhash="165221411"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=165221411"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/d0d3cd4c26aa1a931d46c4bf720856ba.jpg');">
+			</div>
+			<div class="standardTitle">The Ironwood Tree</div>
+			<div class="standardDesc">
+				<div>Emblem</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="None" data-itemhash="165221411" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">The Ironwood Tree</div>
+			<div class="itemSubtitle">
+				<span>Emblem</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+
+						<div class="itemPerks">
+									<div class="itemPerk active">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/c8ebd0e39466600000e88d6bdb935e27.png);"></span>
+										<span class="itemPerkDescription">Increases Event Standing gained in the Iron Banner.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/glimmer.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="3159615086">Glimmer</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">1000</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="198"
+			 data-vendorhash="242140165"
+			 data-itemhash="3367786035"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=3367786035"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/a18e3514c7b70b0317fac8140a164b5a.jpg');">
+			</div>
+			<div class="standardTitle">Million Million</div>
+			<div class="standardDesc">
+				<div>Armor Shader</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="None" data-itemhash="3367786035" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">Million Million</div>
+			<div class="itemSubtitle">
+				<span>Armor Shader</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+
+						<div class="itemDescription">
+							Equip this shader to change the color of your armor.
+
+						</div>
+						<div class="itemPerks">
+									<div class="itemPerk active">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/c8ebd0e39466600000e88d6bdb935e27.png);"></span>
+										<span class="itemPerkDescription">Increases Event Standing gained in the Iron Banner.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/glimmer.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="3159615086">Glimmer</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">1000</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+
+
+
+		<div class="gear-item-box cant-afford  "
+			 data-vendorsaleitemindex="199"
+			 data-vendorhash="242140165"
+			 data-itemhash="3367786034"
+			 data-showdetailbox="false">
+
+				<a href="/en/Armory/Detail?type=item&amp;item=3367786034"></a>
+			<div class="icon" style="background-image: url('/common/destiny_content/icons/bdc351f74cad0881ba7f99c6bc386c6f.jpg');">
+			</div>
+			<div class="standardTitle">Goldspiral</div>
+			<div class="standardDesc">
+				<div>Armor Shader</div>
+				<div class="requirements">
+							<i class="fa fa-square-o"></i>
+0/1 Requirements Met				</div>
+			</div>
+
+
+	<div class="destinyTooltip" data-damagetype="None" data-itemhash="3367786034" data-tiertype="Superior" data-iteminstanceid="0">
+		<div class="itemHeader">
+			<div class="itemName">Goldspiral</div>
+			<div class="itemSubtitle">
+				<span>Armor Shader</span>
+				<span class="tierTypeName">Legendary</span>
+			</div>
+		</div>
+
+
+				<div class="vendorFailureReasons">
+				</div>
+
+		<div class="itemBody">
+			<div class="itemStats">
+
+						<div class="itemDescription">
+							Equip this shader to change the color of your armor.
+
+						</div>
+						<div class="itemPerks">
+									<div class="itemPerk active">
+										<span class="icon" style="background-image: url(/common/destiny_content/icons/c8ebd0e39466600000e88d6bdb935e27.png);"></span>
+										<span class="itemPerkDescription">Increases Event Standing gained in the Iron Banner.</span>
+									</div>
+						</div>
+							<div class="costs">
+											<div class="cost cantAfford">
+												<span class="icon" style="background-image: url('/img/destiny_content/items/glimmer.png');"></span>
+												<div class="values">
+													<span class="costName" data-item-hash="3159615086">Glimmer</span>
+													<span class="costValue">
+											<span class="costOwned">0 / </span><span class="costNeeded">1000</span>
+										</span>
+												</div>
+											</div>
+
+							</div>
+			</div>
+		</div>
+	</div>
+
+		</div>
+				</div>
+		</div>
+
+		<div class="expand">
+			<i class="fa fa-chevron-down" aria-hidden="true"></i>
+		</div>
+	</div>
+
+		</div>
+	</div>
+
+
+</div>
+			<div id="toast-container">
+	<script type="text/html" id="toast-message-template">
+		<div class="toast-message">
+			<div class="text"></div>
+		</div>
+	</script>
+</div>
+		</div>
+
+
+		
+	</div>
+
+
+		<div id="sidebar"></div>
+
+	<div id="tooltips"></div>
+
+
+	
+
+<script type="text/html" id="DefaultNuxTemplate">
+	<div data-bind="attr: { class: 'wrapper ' + $data.className }">
+		<div class="title" data-bind="html: $data.title, visible: $data.title"></div>
+		<div class="description" data-bind="html: $data.description, visible: $data.description"></div>
+		<!-- ko if: $data.action != "" -->
+		<div class="btn action" data-bind="html: $data.action, visible: $data.action, event: { click: $data.onAction }"></div>
+		<!-- /ko -->
+		<!-- ko if: $data.customHtmlTemplate != '' -->
+		<div class="nuxCustom" data-bind="template: { name: $data.customHtmlTemplateName, data: $data.customHtmlTemplateData }"></div>
+		<!-- /ko -->
+	</div>
+</script>
+<script type="text/html" id="TriumphsNux">
+	<img src="/img/theme/destiny/bgs/bg_triumphs_nux.png?cv=3983621215&av=1083700426" />
+</script>
+
+	<!-- ko if: $root.currentNuxTemplateName() != '' -->
+	<div data-bind="template: { name: $root.currentNuxTemplateName(), data: $root.currentNuxTemplateData() }" id="NUX_Container"></div>
+	<!-- /ko -->
+	
+<footer class="footer">
+	<a href="/">
+		<img src="/img/theme/bungienet/logo_footer.png?cv=3983621215&amp;av=1083700426" class="footerLogo" />
+	</a>
+	<div class="nav_bottom">
+		<div class="column">
+			<ul>
+				<li><a href="/">Bungie.net</a></li>
+				<li><a href="/en/News">News</a></li>
+				<li><a href="/contactus">Contact Us</a></li>
+				<li><a href="/en/Questionnaire/UserResearch">User Research</a></li>
+				<li><a href="/en/AboutUs#!page=index">About Bungie</a></li>
+				<li><a href="/en/About/Careers">Careers</a></li>
+				<li><a href="http://www.bungiefoundation.org/">Bungie Foundation</a></li>
+				<li><a href="/en/View/Bungie/terms">Terms of Use</a></li>
+					<li><a href="/en/User/API" class="exempt">Developer</a></li>
+				<li><a href="/en/View/bungie/privacy">Privacy Policy</a></li>
+			</ul>
+		</div>
+		<div class="column">
+			<ul>
+				<li><a href="/en/pub/AboutDestiny">Destiny</a></li>
+				<li><a href="/en/pub/AboutDestiny">Destiny</a></li>
+				<li><a href="/en/Companion">Companion</a></li>
+				<li><a href="/en/Destiny?page=media">Media</a></li>
+				<li><a href="/r/sites/dtg/en/preorder/" target="_null">Buy Destiny</a></li>
+				<li><a href="/en/Clans">Groups</a></li>
+				<li><a href="/en/Forum/Topics/0/0/0/Destiny">Forums</a></li>
+				<li><a href="/en/Destiny/Credits">Credits</a></li>
+			</ul>
+		</div>
+		<div class="column">
+			<ul>
+				<li><a href="http://bungiestore.com" target="_null">Store</a></li>
+				<li><a href="/r/sites/dtg/en/preorder/" target="_null">Games</a></li>
+				<li><a href="http://bungiestore.com/collections/" target="_null">Apparel</a></li>
+				<li><a href="http://bungiestore.com/collections/art" target="_null">Art Collection</a></li>
+				<li><a href="http://bungiestore.com/collections/accessories" target="_null">Bags and Accessories</a></li>
+			</ul>
+		</div>
+		<div class="column">
+			<ul>
+				<li><a href="/en/Help">Help</a></li>
+				<li><a href="/en/Forum/Topics/0/0/None/Help">Forums</a></li>
+				<li><a href="/en/Help">FAQ</a></li>
+				<li><a href="/en/View/bungie/trademarks">Trademarks</a></li>
+			</ul>
+		</div>
+		<div class="column esrb">
+			<a href="http://www.esrb.org/index-js.jsp" class="esrb">
+				<img src="/img/theme/bungienet/img/rating_esrb_t_desc.png?cv=3983621215&amp;av=1083700426" alt="Rated T For Teen" />
+			</a>
+		</div>
+	</div>
+	<div class="nav_bottom lower">
+		<p class="copyright">&copy; <span></span> Bungie, Inc. All rights reserved.</p>
+
+
+<div class="SelectLanguage container_select">
+	<label for="select_language">Language:</label>
+	<select id="select_language">
+			<option value="de">
+				Deutsch
+			</option>
+			<option value="en">
+				English
+			</option>
+			<option value="es">
+				Español
+			</option>
+			<option value="fr">
+				Français
+			</option>
+			<option value="it">
+				Italiano
+			</option>
+			<option value="pt-br">
+				Português (Brasil)
+			</option>
+			<option value="ja">
+				日本語
+			</option>
+	</select>
+</div>		<div class="followUs">
+			<ul>
+				<li class="facebook"><a href="https://www.facebook.com/Bungie" class="ir" title="Bungie on Facebook"></a></li>
+				<li class="twitter"><a href="https://twitter.com/bungie" class="ir" title="Bungie on Twitter"></a></li>
+				<li class="youtube"><a href="http://www.youtube.com/user/Bungie" class="ir" title="Bungie on YouTube"></a></li>
+			</ul>
+			<p>Follow Us</p>
+		</div>
+	</div>
+	<div class="appLinks">
+		<p>Download the Destiny Companion App</p>
+		<a href="http://itunes.apple.com/us/app/bungie-mobile/id441444902" class="btn_appStore">Download on the AppStore</a>
+		<a href="http://play.google.com/store/apps/details?id=com.bungieinc.bungiemobile" class="btn_googlePlay">Get it on Google play</a>
+	</div>
+	
+</footer>
+<div id="alert" class="alert">
+	<img class="preloader" src="/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&amp;av=1083700426" alt="preload icon" />
+	<div class="content">
+		<div class="header cf">
+			<a  class="btn_close"></a>
+		</div>
+		<div class="innerContent"></div>
+	</div>
+</div>
+<div id="alert_noClose" class="alert">
+	<img class="preloader" src="/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&amp;av=1083700426" alt="preload icon" />
+	<div class="content">
+		<div class="header"></div>
+		<div class="innerContent"></div>
+	</div>
+</div>
+<div id="signInAlert" class="alert">
+	<img class="preloader" src="/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&amp;av=1083700426" alt="preload icon" />
+	<div class="content">
+		<div class="header"></div>
+		<div class="innerContent"></div>
+	</div>
+</div>
+<div id="lightbox">
+	<img id="preloader" src="/img/theme/bungienet/icons/icon_loading_gray.gif?cv=3983621215&amp;av=1083700426" alt="preload icon" />
+	<div id="content_lightbox" class="content"></div>
+</div>
+<div id="showsExtraInfo">
+	<div class="content_popout"></div>
+</div>
+<script type="text/javascript">
+	$(document).ready(function(){
+		if (Localizer.switchEnabled)
+		{
+			Localizer.fnEvalLocale('en', '');
+		}
+
+		$(".copyright span").text(new Date().getFullYear());
+		if (Utility.IsAuthenticated())
+		{
+			$("#authConversationPinned").removeClass("invisible");
+		}
+
+		selectLangaugeEvtListener($("#select_language"));
+		setLanguageSelector($("#select_language"), 'en');
+	});
+</script>
+
+
+<script type="text/html" id="container_signIn_script">
+	
+
+
+	<ul id="container_signIn" class="sign-in-triggers dropdown menu">
+			<li>
+				<a class="btn_login psn exempt" title="PlayStation Network" href="/en/User/SignIn/Psnid?bru=%252fen%252fActivities%252fDetail%253factivity%253dironbanner">
+					PlayStation Network
+				</a>
+			</li>
+					<li>
+				<a class="btn_login live exempt" title="Xbox Live" href="/en/User/SignIn/Xuid?bru=%252fen%252fActivities%252fDetail%253factivity%253dironbanner">
+					Xbox Live
+				</a>
+			</li>
+								
+	</ul>
+
+</script>
+	<div class="ageGateTemplate">
+	<div class="ageGatePrompt" data-minimumAge="0">
+        <div class="ageGatePromptContents">
+            <div>
+			    <img class="ratingImage" src="/img/theme/bungienet/placeholders/blank.gif?cv=3983621215&amp;av=1083700426" alt="rating image" />
+		    </div>
+		    <div class="ratingChoiceSet">
+			    <ul class="panel_ageGateSelection ratingAllowed">
+				    <li class="ratingChoice" data-value="1"><a >I am over the age of #AGE</a></li>
+			    </ul>
+		    </div>
+        </div>
+	</div>
+	<div class="ageGateForbidden hide">
+		You are not allowed to view this content.
+	</div>
+	<div class="ageGateContents hide" data-minimumAge="0">
+	</div>
+</div>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(document).on("click", ".ratingChoice a", function (e) {
+            e.preventDefault()
+		    
+		    var button = $(this);
+			var container = button.closest(".ageGate");
+			var allowed = button.parent().attr("data-value") == "1";
+			var agePosted = parseInt(container.find(".ageGatePrompt").attr("data-minimumAge"), 10);
+			
+			if (allowed) {
+
+				if (viewModels.userMinimumAge() <= agePosted) {
+					viewModels.userMinimumAge(agePosted);
+					$(".ageGateContents").each(function () {
+						var contents = $(this);
+
+						var minimumAge = parseInt(contents.attr("data-minimumAge"), 10);
+
+						if (agePosted >= minimumAge) {
+							contents.removeClass("hide");
+							contents.parent().find(".ageGatePrompt").addClass("hide");
+							contents.parent().find(".ageGateForbidden").addClass("hide");
+						}
+					});
+				}
+			} else {
+				$(".ageGateContents").each(function () {
+					var contents = $(this);
+
+					var minimumAge = parseInt(contents.attr("data-minimumAge"), 10);
+
+					if (agePosted <= minimumAge) {
+						contents.parent().find(".ageGateForbidden").removeClass("hide");
+						contents.parent().find(".ageGatePrompt").addClass("hide");
+						contents.addClass("hide");
+					}
+				});
+			}
+		});
+	});
+</script>
+
+
+	<script src="/sharedbundle/companion?v=p-jkddjd5i4yL4sVg9a3hnskGa4R1Ql1gLPYdIMyc1Q1"></script>
+
+	<script src="/sharedbundle/chat?v=gEICey-1xmk0wziEKrQFgxF8-yExr6UWVwxeqH2VIOw1"></script>
+
+
+	
+	<script src="/areascripts/activities?v=cfkH4qptStDSepDykTF3e-PcYGJTlfdFI1fAP3836pA1"></script>
+
+	<script src="/sharedbundle/gearitemdetail?v=rds-ZzbQCEEtbLG9S8gkiN_V2eApBmE_FPaPfTEfQmE1"></script>
+
+
+
+	<script type="text/javascript">
+		$(document)
+			.ready(function() {
+				ko.applyBindings(viewModels);
+			});
+	</script>
+	<style type="text/css">
+				/*
+				Adding a background image if one hasn't been loaded already.
+				It's important that this is at the end of the body, because it
+				won't load if another image has been declared for a more
+				specific body selector.
+			*/
+		body
+		{
+			background: rgb(18, 22, 27);
+			background-size: cover;
+		}
+	</style>
+
+
+</div>
+</body>
+
+<script src="/sharedbundle/site?v=g1l1I8zPPWbKF6egvALByX7xjbHZ7aj-FWbHaAYOjxU1"></script>
+
+
+
+</html>
