@@ -15,3 +15,10 @@ Summer project for Destiny API and Hosting bot for Twitch
     . make this a priority queue
   * Host first streamer live
     ... repeat
+
+
+Files:
+ *Destiny
+  -pythonAPI
+   -HTMLs
+ *Twitch
