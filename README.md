@@ -6,7 +6,7 @@ Summer project for Destiny API and Hosting bot for Twitch
   * Get what Xur is selling
   * Get the current nightfall
   * Get the daily story mission
-  * Get the weekly and dayly crucible activities
+  * Get the weekly and daily crucible activities
 
 - Hosting bot for Twitch
   * Check if own channel is live
